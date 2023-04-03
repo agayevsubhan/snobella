@@ -1,0 +1,574 @@
+body {
+  margin: 0px;
+}
+
+header .contact {
+  width: 100%;
+  background-color: #007878;
+  display: flex;
+  justify-content: space-around;
+}
+header ul {
+  display: flex;
+}
+header .contact1 {
+  display: flex;
+}
+header .test1 {
+  display: flex;
+  color: white;
+  margin-right: 10px;
+  margin-left: 1px;
+}
+header ul .lix {
+  margin-left: 10px;
+  border-right: 2px solid white;
+  padding: 5px;
+}
+header ul .lix1 {
+  margin-right: 200px;
+  padding: 5px;
+}
+header ul {
+  list-style: none;
+}
+header .ab {
+  list-style: none;
+  text-decoration: none;
+  color: white;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 120%;
+}
+header .navbar {
+  display: flex;
+  justify-content: space-around;
+}
+header .navin {
+  margin-top: 20px;
+  display: flex;
+}
+header .task {
+  display: flex;
+}
+header .task1 {
+  color: black;
+  margin-right: 10px;
+  display: flex;
+  margin-top: 15px;
+}
+header .task2 {
+  color: black;
+  margin-right: 10px;
+  display: flex;
+  margin-top: 15px;
+}
+header .task3 {
+  color: black;
+  margin-right: 10px;
+  display: flex;
+  margin-top: 15px;
+}
+header .bac {
+  color: black;
+  text-decoration: none;
+  width: 52px;
+  height: 17px;
+  left: 1060px;
+  top: 95px;
+}
+header .tap2 {
+  font-family: "Palanquin";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  margin-left: 115px;
+  margin-right: 108px;
+  margin-top: 2px;
+}
+header .tap1 {
+  margin-left: 4px;
+}
+header input {
+  margin-top: 15px;
+  width: 341px;
+  height: 24px;
+  background-color: #F7F9FC;
+  border: 1px solid rgb(83, 83, 216);
+}
+header .form i {
+  position: absolute;
+  left: 396px;
+  margin-top: 12px;
+}
+header .nav3 ul {
+  margin-left: 140px;
+  display: flex;
+  gap: 54px;
+}
+header .nab {
+  text-decoration: none;
+  color: black;
+  margin-left: 30px;
+}
+
+footer .futer {
+  display: flex;
+}
+footer .icon123 {
+  display: flex;
+  justify-content: space-between;
+}
+footer .tube {
+  margin-left: 900px;
+  display: flex;
+  gap: 36px;
+}
+
+main .orta1 {
+  background-color: #FFE2E0;
+}
+main .off {
+  color: #DF4244;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 170%;
+}
+main .offf {
+  padding-top: 99px;
+}
+main .off1 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 170%;
+}
+main .yazi1 {
+  margin-left: 202px;
+}
+main .butt {
+  width: 192px;
+  height: 52px;
+  background-color: #206363;
+  border-radius: 8px;
+  color: white;
+  border: #206363;
+  margin-top: 20px;
+}
+main .sekil1 {
+  position: absolute;
+  width: 542px;
+  height: 435px;
+  left: 730px;
+  top: 204px;
+  margin-bottom: 25px;
+}
+main .icon1 ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+main .mesafe {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+}
+main .icn1 {
+  display: flex;
+  gap: 10px;
+}
+main .icn2 {
+  display: flex;
+  gap: 10px;
+}
+main .icn3 {
+  display: flex;
+  gap: 10px;
+}
+main .icn4 {
+  display: flex;
+  gap: 10px;
+}
+main .boyuk1 {
+  font-size: 35px;
+}
+main .boyuk2 {
+  font-size: 35px;
+}
+main .boyuk3 {
+  font-size: 35px;
+}
+main .boyuk4 {
+  font-size: 35px;
+}
+main .icn1 .mesafe1 {
+  margin-top: 15px;
+}
+main .iconlar {
+  background-color: #F7F7F7;
+  height: 110px;
+}
+main .cantalar {
+  height: 50px;
+}
+main .canta1 ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+main .canta1 ul .cat {
+  text-decoration: none;
+  color: black;
+  font-size: 19px;
+}
+main .canta1 ul .kart1 {
+  background-color: #F5F5F5;
+}
+main .canta1 ul .balaca1 {
+  margin-left: 97px;
+  margin-top: 50px;
+}
+main .canta1 ul .kart2 {
+  background-color: #F5F5F5;
+  width: 250px;
+}
+main .canta1 ul .balaca2 {
+  margin-left: 97px;
+  margin-top: 100px;
+}
+main .canta1 ul .kart3 {
+  background-color: #F5F5F5;
+  width: 250px;
+}
+main .canta1 ul .balaca3 {
+  margin-left: 90px;
+  margin-top: 45px;
+}
+main .canta1 ul .kart4 {
+  background-color: #F5F5F5;
+  width: 250px;
+}
+main .canta1 ul .balaca4 {
+  margin-left: 90px;
+  margin-top: 100px;
+}
+main .praduktlar .pradukt {
+  display: flex;
+}
+main .praduktlar .Featured {
+  margin-left: 70px;
+  margin-top: 260px;
+  font-family: "Rubik";
+  font-size: 32px;
+}
+main .praduktlar .wiev {
+  margin-left: 860px;
+  margin-top: 260px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+}
+main .monica {
+  display: flex;
+  justify-content: space-around;
+}
+main .monica .bag1 {
+  background-color: #F9F9F9;
+  width: 400px;
+}
+main .monica .ulduz {
+  display: flex;
+  color: #FFDD45;
+  margin-left: 15px;
+  gap: 10px;
+}
+main .monica .forcam {
+  display: flex;
+}
+main .monica .ortaya {
+  margin-left: 15px;
+}
+main .monica .yazi {
+  color: #F75145;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  display: flex;
+  margin-left: 15px;
+}
+main .monica .fromm {
+  color: rgba(54, 54, 54, 0.7490196078);
+  display: flex;
+  margin-left: 60px;
+}
+main .monica .card {
+  margin-left: 100px;
+  text-align: center;
+  width: 195px;
+  height: 25px;
+  border: solid black;
+  border-radius: 8px;
+}
+main .monica .yasil {
+  width: 60px;
+  margin-left: 15px;
+  text-align: center;
+  border: solid #43D167;
+  background-color: #43D167;
+  border-radius: 15px;
+}
+main .monica .sekil {
+  margin-left: 55px;
+}
+main .monica .bag2 {
+  background-color: #F9F9F9;
+  width: 400px;
+}
+main .monica .faiz {
+  width: 60px;
+  margin-left: 15px;
+  text-align: center;
+  border: solid #DF4244;
+  background-color: #DF4244;
+  border-radius: 15px;
+}
+main .monica .sekil2 {
+  margin-left: 71px;
+  margin-top: 0px;
+}
+main .monica .bag3 {
+  background-color: #F9F9F9;
+  width: 400px;
+}
+main .monica .sekil3 {
+  margin-left: 60px;
+  margin-top: 68px;
+}
+main .bestseller {
+  background-color: rgb(233, 182, 182);
+}
+main .bestseller .best {
+  display: flex;
+}
+main .bestseller .beste {
+  margin-left: 70px;
+  margin-top: 260px;
+  font-family: "Rubik";
+  font-size: 32px;
+}
+main .bestseller .ev {
+  margin-left: 990px;
+  margin-top: 260px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+}
+main .sahin {
+  background-color: rgb(233, 182, 182);
+  display: flex;
+  justify-content: space-around;
+}
+main .sahin .best {
+  background-color: #FFF7F7;
+}
+main .sahin .sumka1 {
+  background-color: #FFFFFF;
+  width: 400px;
+}
+main .sahin .ulduz {
+  display: flex;
+  color: #FFDD45;
+  margin-left: 15px;
+  gap: 10px;
+}
+main .sahin .forcam {
+  display: flex;
+}
+main .sahin .ortaya {
+  margin-left: 15px;
+}
+main .sahin .yazi {
+  color: #F75145;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  display: flex;
+  margin-left: 15px;
+}
+main .sahin .fromm {
+  color: rgba(54, 54, 54, 0.7490196078);
+  display: flex;
+  margin-left: 60px;
+}
+main .sahin .card {
+  margin-left: 100px;
+  text-align: center;
+  width: 195px;
+  height: 25px;
+  border: solid black;
+  border-radius: 8px;
+}
+main .sahin .yasil {
+  width: 60px;
+  margin-left: 15px;
+  text-align: center;
+  border: solid #43D167;
+  background-color: #43D167;
+  border-radius: 15px;
+}
+main .sahin .sekl {
+  margin-left: 100px;
+  margin-top: 40px;
+}
+main .sahin .sumka2 {
+  background-color: #FFFFFF;
+  width: 400px;
+}
+main .sahin .faiz {
+  width: 60px;
+  margin-left: 15px;
+  text-align: center;
+  border: solid #DF4244;
+  background-color: #DF4244;
+  border-radius: 15px;
+}
+main .sahin .sekl2 {
+  margin-left: 71px;
+}
+main .sahin .sumka3 {
+  background-color: #FFFFFF;
+  width: 400px;
+}
+main .sahin .sekl3 {
+  margin-left: 60px;
+  margin-top: 85px;
+}
+main .discount {
+  background-color: #F9F9F9;
+}
+main .discount .disk {
+  display: flex;
+}
+main .discount .disko {
+  margin-left: 70px;
+  margin-top: 260px;
+  font-family: "Rubik";
+  font-size: 32px;
+}
+main .discount .ev {
+  margin-left: 990px;
+  margin-top: 260px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+}
+main .altay {
+  background-color: #F9F9F9;
+  display: flex;
+  justify-content: space-around;
+}
+main .altay .best {
+  background-color: #FFF7F7;
+}
+main .altay .cantam1 {
+  background-color: #FFFFFF;
+  width: 400px;
+}
+main .altay .ulduz {
+  display: flex;
+  color: #FFDD45;
+  margin-left: 15px;
+  gap: 10px;
+}
+main .altay .forcam {
+  display: flex;
+}
+main .altay .ortaya {
+  margin-left: 15px;
+}
+main .altay .yazi {
+  color: #F75145;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  display: flex;
+  margin-left: 15px;
+}
+main .altay .fromm {
+  color: rgba(54, 54, 54, 0.7490196078);
+  display: flex;
+  margin-left: 60px;
+}
+main .altay .card {
+  margin-left: 100px;
+  text-align: center;
+  width: 195px;
+  height: 25px;
+  border: solid black;
+  border-radius: 8px;
+}
+main .altay .yasil {
+  width: 60px;
+  margin-left: 15px;
+  text-align: center;
+  border: solid #43D167;
+  background-color: #43D167;
+  border-radius: 15px;
+}
+main .altay .sekkl {
+  margin-left: 100px;
+  margin-top: 40px;
+}
+main .altay .cantam2 {
+  background-color: #FFFFFF;
+  width: 400px;
+}
+main .altay .faiz {
+  width: 60px;
+  margin-left: 15px;
+  text-align: center;
+  border: solid #DF4244;
+  background-color: #DF4244;
+  border-radius: 15px;
+}
+main .altay .sekkl2 {
+  margin-left: 71px;
+  margin-top: 63px;
+}
+main .altay .cantam3 {
+  background-color: #FFFFFF;
+  width: 400px;
+}
+main .altay .sekkl3 {
+  margin-left: 60px;
+  margin-top: 85px;
+}
+main .sonu {
+  background-color: #F7F7F9;
+}
+main .sonu .foot {
+  display: flex;
+  justify-content: space-around;
+}
+main .sonu .foot .tap1 {
+  margin-left: 600px;
+  margin-bottom: 25px;
+}
+main .sonu .foot .snob {
+  display: flex;
+}
+main .sonu .foot .snob .mektub {
+  display: flex;
+}/*# sourceMappingURL=main.css.map */

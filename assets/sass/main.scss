@@ -1,0 +1,608 @@
+@import 'base/reset';
+@import 'layout/header';
+@import 'layout/footer';
+
+
+
+
+main {
+    .orta1 {
+
+        background-color: #FFE2E0;
+    }
+
+    //off
+    .off {
+
+        color: #DF4244;
+        font-family: 'Rubik';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 170%;
+    }
+
+    .offf {
+        padding-top: 99px;
+    }
+
+    .off1 {
+        font-family: 'Rubik';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 170%;
+    }
+
+    .yazi1 {
+        margin-left: 202px;
+
+    }
+
+    .butt {
+
+        width: 192px;
+        height: 52px;
+        background-color: #206363;
+
+        border-radius: 8px;
+        color: white;
+        border: #206363;
+        margin-top: 20px;
+    }
+
+    .sekil1 {
+        position: absolute;
+        width: 542px;
+        height: 435px;
+        left: 730px;
+        top: 204px;
+        margin-bottom: 25px;
+    }
+
+    ///icconlar///////////////
+    .icon1 ul {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        list-style: none;
+    }
+
+    .mesafe {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: black;
+    }
+
+    .icn1 {
+        display: flex;
+        gap: 10px;
+    }
+
+    .icn2 {
+        display: flex;
+        gap: 10px;
+    }
+
+    .icn3 {
+        display: flex;
+        gap: 10px;
+    }
+
+    .icn4 {
+        display: flex;
+        gap: 10px;
+    }
+
+    .boyuk1 {
+        font-size: 35px;
+
+
+    }
+
+    .boyuk2 {
+        font-size: 35px;
+
+
+    }
+
+    .boyuk3 {
+        font-size: 35px;
+
+
+    }
+
+    .boyuk4 {
+        font-size: 35px;
+
+
+    }
+
+    .icn1 .mesafe1 {
+        margin-top: 15px;
+
+
+    }
+
+    .iconlar {
+        background-color: #F7F7F7;
+        height: 110px;
+
+    }
+
+    .cantalar {
+
+        height: 50px;
+
+    }
+
+    .canta1 ul {
+        display: flex;
+        justify-content: space-around;
+        list-style: none;
+
+        .cat {
+            text-decoration: none;
+            color: black;
+            font-size: 19px;
+
+        }
+
+        .kart1 {
+
+            background-color: #F5F5F5;
+        }
+
+        .balaca1 {
+            margin-left: 97px;
+            margin-top: 50px;
+        }
+
+        .kart2 {
+            background-color: #F5F5F5;
+            width: 250px;
+        }
+
+        .balaca2 {
+            margin-left: 97px;
+            margin-top: 100px;
+        }
+
+        .kart3 {
+            background-color: #F5F5F5;
+            width: 250px;
+        }
+
+        .balaca3 {
+            margin-left: 90px;
+            margin-top: 45px;
+
+        }
+
+        .kart4 {
+            background-color: #F5F5F5;
+            width: 250px;
+        }
+
+        .balaca4 {
+            margin-left: 90px;
+            margin-top: 100px;
+        }
+
+    }
+
+    .praduktlar {
+
+        .pradukt {
+            display: flex;
+
+
+        }
+
+
+        .Featured {
+
+            margin-left: 70px;
+            margin-top: 260px;
+            font-family: 'Rubik';
+            font-size: 32px;
+        }
+
+        .wiev {
+            margin-left: 860px;
+            margin-top: 260px;
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+        }
+
+
+    }
+
+    .monica {
+        display: flex;
+        justify-content: space-around;
+
+        .bag1 {
+            background-color: #F9F9F9;
+            width: 400px;
+
+        }
+
+        .ulduz {
+            display: flex;
+            color: #FFDD45;
+            margin-left: 15px;
+            gap: 10px;
+        }
+
+        .forcam {
+            display: flex;
+        }
+
+        .ortaya {
+            margin-left: 15px;
+        }
+
+        .yazi {
+            color: #F75145;
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 20px;
+            display: flex;
+            margin-left: 15px;
+
+        }
+
+        .fromm {
+            color: #363636BF;
+            display: flex;
+            margin-left: 60px;
+
+        }
+
+        .card {
+            margin-left: 100px;
+            text-align: center;
+            width: 195px;
+            height: 25px;
+            border: solid black;
+            border-radius: 8px;
+        }
+
+        .yasil {
+            width: 60px;
+            margin-left: 15px;
+            text-align: center;
+            border: solid #43D167;
+            background-color: #43D167;
+            border-radius: 15px;
+        }
+
+        .sekil {
+            margin-left: 55px;
+
+
+        }
+
+        .bag2 {
+            background-color: #F9F9F9;
+            width: 400px;
+        }
+
+        .faiz {
+            width: 60px;
+            margin-left: 15px;
+            text-align: center;
+            border: solid #DF4244;
+            background-color: #DF4244;
+            border-radius: 15px;
+        }
+
+        .sekil2 {
+            margin-left: 71px;
+            margin-top: 0px;
+        }
+
+        .bag3 {
+            background-color: #F9F9F9;
+            width: 400px;
+        }
+
+        .sekil3 {
+            margin-left: 60px;
+            margin-top: 68px;
+        }
+    }
+    ///////////////////////////////////////////////////////////////////////////////////////////////dwxls
+    .bestseller {
+        background-color: rgb(233, 182, 182);
+        .best {
+            display: flex;
+
+
+        }
+
+
+        .beste {
+
+            margin-left: 70px;
+            margin-top: 260px;
+            font-family: 'Rubik';
+            font-size: 32px;
+        }
+
+        .ev {
+            margin-left: 990px;
+            margin-top: 260px;
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+        }
+
+
+    }
+
+    .sahin {
+        background-color: rgb(233, 182, 182);
+        display: flex;
+        justify-content: space-around;
+        .best{
+            background-color: #FFF7F7;
+        }
+
+        .sumka1 {
+            background-color: #FFFFFF;
+            width: 400px;
+
+        }
+
+        .ulduz {
+            display: flex;
+            color: #FFDD45;
+            margin-left: 15px;
+            gap: 10px;
+        }
+
+        .forcam {
+            display: flex;
+        }
+
+        .ortaya {
+            margin-left: 15px;
+        }
+
+        .yazi {
+            color: #F75145;
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 20px;
+            display: flex;
+            margin-left: 15px;
+
+        }
+
+        .fromm {
+            color: #363636BF;
+            display: flex;
+            margin-left: 60px;
+
+        }
+
+        .card {
+            margin-left: 100px;
+            text-align: center;
+            width: 195px;
+            height: 25px;
+            border: solid black;
+            border-radius: 8px;
+        }
+
+        .yasil {
+            width: 60px;
+            margin-left: 15px;
+            text-align: center;
+            border: solid #43D167;
+            background-color: #43D167;
+            border-radius: 15px;
+        }
+
+        .sekl {
+            margin-left: 100px;
+            margin-top: 40px;
+
+
+        }
+
+        .sumka2 {
+            background-color: #FFFFFF;
+            width: 400px;
+        }
+
+        .faiz {
+            width: 60px;
+            margin-left: 15px;
+            text-align: center;
+            border: solid #DF4244;
+            background-color: #DF4244;
+            border-radius: 15px;
+        }
+
+        .sekl2 {
+            margin-left: 71px;
+           
+        }
+
+        .sumka3 {
+            background-color: #FFFFFF;
+            width: 400px;
+        }
+
+        .sekl3 {
+            margin-left: 60px;
+            margin-top: 85px;
+        }
+    }
+       ///////////////////////////////////////////////////////////////////////////////////////////////////
+       
+
+       .discount{
+        background-color: #F9F9F9;
+        .disk {
+            display: flex;
+
+
+        }
+
+
+        .disko {
+
+            margin-left: 70px;
+            margin-top: 260px;
+            font-family: 'Rubik';
+            font-size: 32px;
+        }
+
+        .ev {
+            margin-left: 990px;
+            margin-top: 260px;
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+        }
+
+
+    }
+
+    .altay {
+        background-color: #F9F9F9;
+        display: flex;
+        justify-content: space-around;
+        .best{
+            background-color: #FFF7F7;
+        }
+
+        .cantam1 {
+            background-color: #FFFFFF;
+            width: 400px;
+
+        }
+
+        .ulduz {
+            display: flex;
+            color: #FFDD45;
+            margin-left: 15px;
+            gap: 10px;
+        }
+
+        .forcam {
+            display: flex;
+        }
+
+        .ortaya {
+            margin-left: 15px;
+        }
+
+        .yazi {
+            color: #F75145;
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 20px;
+            display: flex;
+            margin-left: 15px;
+
+        }
+
+        .fromm {
+            color: #363636BF;
+            display: flex;
+            margin-left: 60px;
+
+        }
+
+        .card {
+            margin-left: 100px;
+            text-align: center;
+            width: 195px;
+            height: 25px;
+            border: solid black;
+            border-radius: 8px;
+        }
+
+        .yasil {
+            width: 60px;
+            margin-left: 15px;
+            text-align: center;
+            border: solid #43D167;
+            background-color: #43D167;
+            border-radius: 15px;
+        }
+
+        .sekkl {
+            margin-left: 100px;
+            margin-top: 40px;
+
+
+        }
+
+        .cantam2 {
+            background-color: #FFFFFF;
+            width: 400px;
+        }
+
+        .faiz {
+            width: 60px;
+            margin-left: 15px;
+            text-align: center;
+            border: solid #DF4244;
+            background-color: #DF4244;
+            border-radius: 15px;
+        }
+
+        .sekkl2 {
+            margin-left: 71px;
+            margin-top: 63px;
+           
+        }
+
+        .cantam3 {
+            background-color: #FFFFFF;
+            width: 400px;
+        }
+
+        .sekkl3 {
+            margin-left: 60px;
+            margin-top: 85px;
+        }
+    }
+    .sonu{
+        background-color: #F7F7F9;
+.foot{
+  
+    display: flex;
+    justify-content: space-around;
+.tap1{
+    
+    margin-left: 600px;
+    margin-bottom: 25px;
+}
+.snob{
+    display: flex;
+
+.mektub{
+   
+    display: flex;
+}
+}
+}
+    }
+
+
+    }
